@@ -13,4 +13,4 @@ API bağlantı işleminde kullanmak için c# sınıfını flutter dart sınıfı
 Eğer build_runner ve json paketi kullanıyorsanız, bu dönüştürücü yardımcı olacaktır.
 Nasıl kullanılacağı ile ilgili wiki sayfalarına bakabilirsiniz.
 
-https://github.com/demirburak/Flutter_Class_Converter.wiki.git
+https://github.com/demirburak/Flutter_Class_Converter/wiki
