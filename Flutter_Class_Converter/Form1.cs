@@ -22,6 +22,7 @@ namespace Flutter_Class_Converter
         {
             string bilgi = "(EN) You can copy/paste properties from c# model (class) to table below. Write to model (class) name and click convert button.\n\n";
             bilgi += "(TR) Sadece class taki propertyleri aşağıdaki tabloya yapıştır. Model in isminide textbox a  yaz ve dönüştür tıkla.\n\n";
+            bilgi += "https://github.com/demirburak/Flutter_Class_Converter/wiki \n\n";
             bilgi += "Burak D.";
             MessageBox.Show(bilgi);
         }

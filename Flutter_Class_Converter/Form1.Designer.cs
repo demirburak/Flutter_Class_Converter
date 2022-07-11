@@ -53,7 +53,7 @@ namespace Flutter_Class_Converter
             this.panel1.Location = new System.Drawing.Point(0, 0);
             this.panel1.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(756, 94);
+            this.panel1.Size = new System.Drawing.Size(760, 67);
             this.panel1.TabIndex = 0;
             // 
             // label1
@@ -113,12 +113,12 @@ namespace Flutter_Class_Converter
             this.dgv.Columns.AddRange(new System.Windows.Forms.DataGridViewColumn[] {
             this.PROPERTIES});
             this.dgv.Dock = System.Windows.Forms.DockStyle.Left;
-            this.dgv.Location = new System.Drawing.Point(0, 94);
+            this.dgv.Location = new System.Drawing.Point(0, 67);
             this.dgv.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.dgv.Name = "dgv";
             this.dgv.RowHeadersWidth = 51;
             this.dgv.RowTemplate.Height = 29;
-            this.dgv.Size = new System.Drawing.Size(360, 302);
+            this.dgv.Size = new System.Drawing.Size(360, 329);
             this.dgv.TabIndex = 1;
             this.dgv.KeyDown += new System.Windows.Forms.KeyEventHandler(this.dgv_KeyDown);
             // 
@@ -131,18 +131,18 @@ namespace Flutter_Class_Converter
             // txtMetin
             // 
             this.txtMetin.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.txtMetin.Location = new System.Drawing.Point(360, 94);
+            this.txtMetin.Location = new System.Drawing.Point(360, 67);
             this.txtMetin.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.txtMetin.Multiline = true;
             this.txtMetin.Name = "txtMetin";
-            this.txtMetin.Size = new System.Drawing.Size(396, 302);
+            this.txtMetin.Size = new System.Drawing.Size(400, 329);
             this.txtMetin.TabIndex = 2;
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(756, 396);
+            this.ClientSize = new System.Drawing.Size(760, 396);
             this.Controls.Add(this.txtMetin);
             this.Controls.Add(this.dgv);
             this.Controls.Add(this.panel1);
